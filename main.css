@@ -151,7 +151,7 @@ table {
 
 body {
   display: grid;
-  background-image: url(/images/clovers.jpg);
+  background-image: url(images/clovers.jpg);
   /* background-repeat: no-repeat; */
 }
 
